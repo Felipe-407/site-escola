@@ -3,6 +3,15 @@
   padding: 0;
 }
 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Cal+Sans&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+header a{
+  color: white;
+  text-decoration: none;
+}
+
 .cabecalho{
   background-color: #424e61; 
   color: white;
@@ -35,7 +44,7 @@
   width: 35%;
 }
 
-.escola-titulo {
+#escola-titulo {
   padding:24px 0;
 }
 
