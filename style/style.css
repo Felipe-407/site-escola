@@ -57,40 +57,26 @@
   text-align: center;
   padding: 24px 0;
 }
+.estudantes-imagem {
+  width: 100px;
+}
 
+.estudantes-icone {
+  width: 24px;
+  padding: 4px 8px;
+}
 
+.rodape{
+  background-color: #424e61;
+  text-align: center;
+  color:white;
+  font-size: 25px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.rodape-imagem{
+  height: 60px;
+  padding: 12px 0;
+}
 
 @media (max-width: 768px) {
   .cabecalho{
